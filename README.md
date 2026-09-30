@@ -49,6 +49,9 @@ Please read the [full text][code] so that you can understand what actions will a
 
 Instructions on how people can contribute to this project.
 
+## Team Members
+* josephchua
+
 ## 📄 License
 
 *(Modify based on your selected license)*
