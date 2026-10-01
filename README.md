@@ -51,6 +51,7 @@ Instructions on how people can contribute to this project.
 
 ## Team Members
 * josephchua
+* winnielf
 
 ## 📄 License
 
