@@ -50,8 +50,8 @@ Please read the [full text][code] so that you can understand what actions will a
 Instructions on how people can contribute to this project.
 
 ## Team Members
-* josephchua
-* winnielf
+* [josephchua](https://github.com/josephchua)
+* [winlaif](https://github.com/winlaif)
 
 ## 📄 License
 
